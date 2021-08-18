@@ -1,2 +1,2 @@
 # Bangla-Digit-Prediction
-Machine Learning based digit recognition system
+Deep Learning based digit recognition system.
